@@ -1,0 +1,6 @@
+{
+  "display_name": "文章生成个人画像站",
+  "display_name_en": "Article to Portrait Site",
+  "description_zh": "上传往期文章链接或个人简历 PDF，自动抽取内容并生成 Glass / 杂志 / 和纸墨三套风格预览图，用户选定后生成个人画像站 HTML；发布前会先询问并自定义分享链接的域名前缀，再发布为公开链接。",
+  "description_en": "Turn past article links or a resume PDF into content, preview three styles (Glass, Magazine, Washi-ink), build a personal portrait site, then publish it with a user-named domain prefix."
+}
